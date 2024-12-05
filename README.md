@@ -22,7 +22,7 @@ A simple and functional Pomodoro Timer built with React. This application helps 
 
 ## Screenshot
 
-![Pomodoro Timer Screenshot](screenshot.png)
+![Pomodoro Timer Screenshot](public/timer.png)
 
 ## How to Run the Project Locally
 
